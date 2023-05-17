@@ -1,3 +1,3 @@
 # Student_mangement_systerm
 
-Student data mangement systerm creating using C programing
+Student data management system created using C programing.
